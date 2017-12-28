@@ -3,8 +3,8 @@ development:
   database: db/dwyn_development
   pool: 5
   timeout: 5000
-  username: user
-  password: 1618
+  username: dwyn
+  password: 
 
 host: localhost
 
@@ -13,16 +13,16 @@ test:
   database: db/dwyn_test
   pool: 5
   timeout: 5000
-  username: user
-  password: 1618
+  username: dwyn
+  password: 
 
 production:
   adapter: postgresql
   database: db/dwyn_production
   pool: 5
   timeout: 5000
-  username: user
-  password: 1618
+  username: dwyn
+  password: 
 
 # SQLite version 3.x
 #   gem install sqlite3
