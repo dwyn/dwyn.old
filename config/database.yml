@@ -22,7 +22,7 @@ production:
   pool: 5
   timeout: 5000
   username: dwyn
-  password: 
+  password:
 
 # SQLite version 3.x
 #   gem install sqlite3
