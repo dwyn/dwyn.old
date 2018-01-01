@@ -15,8 +15,8 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
-gem 'pygments.rb', #'~> 1.2.1'
-gem 'redcarpet', #'~> 3.4.0'
+gem 'pygments.rb', '~> 0.6.0'
+gem 'redcarpet', '~> 3.2.2'
 
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
