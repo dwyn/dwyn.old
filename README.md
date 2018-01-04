@@ -1,4 +1,5 @@
-Just a note saying, Happy New Year!
+I definitely need to work on disqus functionality, date timestamps on individual posts and style the front end. Otherwise I like where this is for now. (Key phrase being, "for now")
+
 
 # README
 
