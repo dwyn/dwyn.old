@@ -3,7 +3,7 @@
 <div id="posts_wrapper" class="skinny_wrapper">
 	<% @projects.each do |project| %>
 		<div class="post">
-			<p class="date"><%= project.created_at.strftime('%A, %B %d') %></p>
+			<p class="date"><%= project.created_at.strftime('%A, %b %e, at %l:%M %p') %></p>
 			<h2><a href="#"><%= link_to project.title, project %></a></h2>
 			<hr>
 		</div>
