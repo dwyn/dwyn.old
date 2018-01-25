@@ -96,6 +96,7 @@ hr {
 }
 
 #main_navigation {
+
 	padding: 2.5em 5%;
 	border-bottom: 1px solid $border;
 	.name {
@@ -112,7 +113,6 @@ hr {
 	nav {
 		float: right;
 		padding-top: 1.5rem;
-		height: 20%;
 		a {
 			color: $dark;
 			text-decoration: none;
@@ -133,7 +133,6 @@ hr {
 #main_footer {
 	padding: 2.5em 5%;
 	border-top: 1px solid $border;
-	height: 20%;
 	.copyright {
 		float: left;
 		font-size: .9em;
