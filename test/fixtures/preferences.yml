@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  project_sort_order: MyString
+  post_sort_order: MyString
+  allow_create_projects: false
+  allow_create_posts: false
+
+two:
+  project_sort_order: MyString
+  post_sort_order: MyString
+  allow_create_projects: false
+  allow_create_posts: false

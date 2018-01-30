@@ -1,0 +1,27 @@
+
+-----------------------------------------------------------------
+  pg_upgrade run on Wed Dec 27 19:37:55 2017
+-----------------------------------------------------------------
+
+check for "/usr/local/Cellar/postgresql/9.3.2/bin" failed: No such file or directory
+
+
+-----------------------------------------------------------------
+  pg_upgrade run on Wed Dec 27 19:38:56 2017
+-----------------------------------------------------------------
+
+could not open version file: /usr/local/var/postgres.10.1.backup/PG_VERSION
+
+-----------------------------------------------------------------
+  pg_upgrade run on Wed Dec 27 19:41:19 2017
+-----------------------------------------------------------------
+
+check for "/usr/local/Cellar/postgresql/postgres.9.3.backup/bin" failed: No such file or directory
+
+
+-----------------------------------------------------------------
+  pg_upgrade run on Wed Dec 27 19:41:49 2017
+-----------------------------------------------------------------
+
+You must identify the directory where the old cluster binaries reside.
+Please use the -b command-line option or the PGBINOLD environment variable.
